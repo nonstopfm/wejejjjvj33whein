@@ -1,0 +1,7 @@
+local part = Instance.new("Part")
+part.Name = "Part"
+part.Anchored = true
+part.Size = part.Size + Vector3.new(1987, 0.200001, 2034)
+part.Position = part.Position + Vector3.new(-42.5, -11.5, 339) 
+part.Transparency = 100
+part.Parent = workspace
